@@ -4,7 +4,7 @@
 
 AudioBook Studio ist ein Windows-Programm für alle, die Hörbücher als viele einzelne MP3-Dateien haben und daraus eine saubere Sammlung machen möchten: **eine Datei pro Buch**, mit Titel, Autor, Sprecher, Reihe, Band, Cover, Beschreibung und Kapitelmarken – automatisch in Ordnern nach Autor und Reihe abgelegt.
 
-> Version 1.2.7 · Windows 10 (ab 1809) und Windows 11 · 17 Sprachen
+> Version 1.2.8 · Windows 10 (ab 1809) und Windows 11 · 17 Sprachen
 
 ---
 
@@ -49,6 +49,7 @@ Updates installiert das Programm auf Wunsch selbst (Hilfe → Nach Updates suche
 - **Automatische Sicherung** der Bibliothek (z.B. in OneDrive oder pCloud).
 - **Gleiche Lautstärke (ReplayGain)** – ohne das Audio zu verändern.
 - Vor jedem Löschen wird nachgefragt; Entferntes landet im Papierkorb.
+- **Fertige Hörbücher aktualisieren:** erneut eingelesene Bücher aus dem Zielordner werden nur neu getaggt (in Sekunden) bzw. an den richtigen Platz verschoben – nie neu erzeugt oder in den Papierkorb gelegt.
 
 ### Unterwegs hören
 - **Übertragen** auf **OneDrive / pCloud** (z.B. für **Evermusic** auf iPhone und Android), **USB-Stick, SD-Karte, MP3-Player** oder **Android-Handy per USB** – inkrementell, mit Cover.
